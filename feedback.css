@@ -1,0 +1,139 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    background-color: hsl(216, 12%, 8%);
+}
+div.container{
+    margin-top:100px;
+    margin-left:400px;
+border-radius: 20px;
+    background-color:  hsl(213, 19%, 18%);
+    
+    width: 350px;
+    height: 350px;
+    
+}
+div.star{
+    float:left;
+    position:relative;
+    top:25px;
+    left:25px;
+    padding:5px;
+    background-color:hsl(217, 10%, 25%);
+    border-radius:100%;
+    color:hsl(25, 97%, 53%);
+    font-size:15px;
+}
+div.heading{
+    color:hsl(0, 100%, 100%);
+    margin-top:100px;
+
+   font-size: 16px;
+
+}
+div.text{
+    color:hsl(217, 12%, 63%);
+    font-size: 14px;
+}
+.buttons{
+    margin-top:60px;
+}
+.one,.two,.three,.four,.five{
+    color:hsl(217, 12%, 63%);
+  background-color: hsl(217, 10%, 25%);  
+  border-radius:50px ;
+  border-style: none;
+  padding:15px;
+ 
+}
+.one{
+    position:relative;
+    right:15px;
+}
+.two{
+    position:relative;
+   right:10px;
+}
+.three{
+    position:relative;
+    right:5px;
+}
+.four{
+    position:relative;
+    left:2px;
+}
+.five{
+    position:relative;
+    left:10px;
+}
+.submitone{
+   margin-top:10px;
+    background-color: hsl(25, 97%, 53%);
+    border-radius:20px;
+border-style: none;
+    width:300px;
+    padding:10px;
+    
+}
+.submitone:hover{
+    background-color: white;
+
+}
+
+button:hover{
+    background-color: hsl(25, 97%, 53%);
+}
+
+
+
+
+
+div.containertwo{ 
+
+   position:relative;
+   right:400px;
+border-radius: 20px; 
+    background-color: hsl(213, 24%, 20%);
+    width: 350px;
+    height: 380px;
+    padding:10px;
+
+}
+img{
+    margin-top:24px;
+}
+.popone{
+    position:relative;
+    left:20px;
+    ;
+    color:hsl(25, 97%, 53%);
+    background-color:hsl(217, 12%, 63%);
+    border-radius:20px;
+    width: 300px;
+    padding:5px;
+}
+.heading2{
+    color:hsl(0, 100%, 100%);
+    margin-top:20px;
+   font-size: 16px;
+}
+.content2{
+    color:hsl(217, 12%, 63%);
+    font-size: 14px;
+}
+.hidden{
+    visibility: hidden;
+}
+
+
+
+
+
+
+
+/* White: hsl(0, 100%, 100%)
+- Grey 500: hsl(217, 12%, 63%)
+- Grey 900: hsl(213, 19%, 18%)
+- Grey 950: hsl(216, 12%, 8%)
