@@ -1,17 +1,17 @@
-# rating-page
+## rating-page
 
-📌 Features
+##📌 Features
 Clean and simple rating layout
 Click the rating to rate and submit 
 Beginner-friendly JavaScript interactivity
 Responsive design (works on mobile and desktop)
 
-🛠️ Built With
+##🛠️ Built With
 HTML
 CSS
 JavaScript
 
-💡 What I Learned
+##💡 What I Learned
 DOM manipulation
 Event listeners in JavaScript
 Building interactive UI components
